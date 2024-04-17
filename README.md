@@ -38,6 +38,7 @@ If everything is configured and working correctly, there should be no error mess
 
 # Notes
 wiringPi, and hence this library, require running as the root user.
+to install wiringpi sudo apt install wiringpi
 
 This Common Lisp binding is released under the ISC license, but wiringPi itself is under the LGPL.
 
